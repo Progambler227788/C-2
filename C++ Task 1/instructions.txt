@@ -1,0 +1,9 @@
+hello I hope your doing well so here is what i need done and I am thinking of purchasing your bundle to get it done let me know if you can do it.
+
+Hi am doing a assignment that i need done it is a C++ program and the details will be provided in the files i attach to this message. the one titled "PA 2 Building a SFort95 Language Parser (Spring 2024)" is the assignment and its description of exactly what needs to be done.
+
+I also will be providing the given files that are coexisting with the assignment I have attached also the test cases that need to work when the code is implemented in what i use to submit the assignment which is called vocareum and is very picky about how things get done to get the full points.
+
+hopefully everything is pretty straight forward and you are able to get this done no problem it would be amazing.
+
+this assignment is submitted in a auto grader so i can let you know also right away when you finish if everything is good and working and if not hopefully you can help me fix any issues so everything is working good. let me know if able and thank you
